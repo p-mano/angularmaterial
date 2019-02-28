@@ -1,0 +1,9 @@
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://media.alienwarearena.com/media/b9c08e9c4ddd147184996fff6f8739c7.jpg');
+    background-size: cover;
+  }
+  
